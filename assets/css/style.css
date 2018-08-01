@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    text-align: left;
+    margin: 10px;
+}
+
+.container {
+    background-color: mediumspringgreen;
+}
+
+#gameTitle {
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#instructions {
+    background-color: aquamarine;
+}
+
+#randomNumber {
+    background-color: khaki;
+}
+
+#winsLosses {
+    background-color: blanchedalmond;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#titleScore {
+    background-color: mediumpurple;
+}
+
+#currentScore {
+    background-color: slateblue;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+}
